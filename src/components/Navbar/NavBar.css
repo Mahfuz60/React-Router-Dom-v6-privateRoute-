@@ -1,0 +1,15 @@
+.navbar ul li {
+  list-style: none;
+  display: flex;
+  float: left;
+  padding-right: 20px;
+
+  font-size: 20px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  text-align: center;
+  color: rgb(151, 204, 7);
+  font-weight: bold;
+}
